@@ -1,0 +1,23 @@
+//
+//  LYEngineExample.pch
+//  LYEngineExample
+//
+//  Created by lly on 2017/5/26.
+//  Copyright © 2017年 franklin. All rights reserved.
+//
+
+#ifndef LYEngineExample_pch
+#define LYEngineExample_pch
+
+#ifdef __OBJC__
+
+#import <Foundation/Foundation.h>
+
+#import <UIKit/UIKit.h>
+
+#import <LYEngine/LYEngine.h>
+#import <LYWebService/LYWebService.h>
+
+#endif
+
+#endif /* LYEngineExample_pch */
